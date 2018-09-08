@@ -1,4 +1,9 @@
 /*
+
+Daniel Ocean
+CISP 31
+9/8/18
+
 Write a short program that converts a Fahrenheit temperature to its Celsius
 equivalent. In the program, prompt the user for the Fahrenheit temperature
 and read it into a variable of type double. Make the necessary
@@ -15,7 +20,7 @@ int main(){
 
     cout << "Enter temperature in Fahrenheit.." << endl;
 
-    //Store the user provided temperature in a var of type double
+    //Store the user provided fahrenheit temperature in a var of type double
     double far;
     cin >> far;
 
