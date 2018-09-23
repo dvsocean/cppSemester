@@ -21,7 +21,7 @@ int main(int argc, char const *argv[])
     string age = argv[1];
 
     output.open("/Users/danielocean/Desktop/numbers.txt");
-    output << age << " is my current age. It is also when I want to meet Danita.\n"; 
+    output << age << " is my current age. It is also when I want to meet her.\n"; 
     output.close();
 
     cout << "Your output has been written to a file\n";

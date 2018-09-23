@@ -14,7 +14,7 @@ int main(int argc, char const *argv[])
 
     //only reads up to the first space
     input >> found;
-
+  
     //reads the second space
     input >> more;
     input.close();
